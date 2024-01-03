@@ -1,5 +1,4 @@
-# Major-Project
-Audio Augmentation using Generative Adversarial Networks for speech emotion datasets
+# Audio Augmentation using Generative Adversarial Networks for speech emotion datasets
 
 - Built Deep Convolutional GAN in the PyTorch framework to generate new audio logarithmic spectrograms to solve data inadequacy issues for training speech emotion datasets
 
