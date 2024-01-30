@@ -1,6 +1,6 @@
 # Audio Augmentation using Generative Adversarial Networks for speech emotion datasets
 
-- Built Deep Convolutional GAN in the PyTorch framework to generate new audio logarithmic spectrograms to solve data inadequacy issues for training speech emotion datasets
+- Built Deep Convolutional GAN in the PyTorch framework to generate new spectrograms to solve data imbalances in speech emotion datasets
 
 - Converted the audio dataset (.wav format) into spectrograms via Short Term Fourier Transform and classified the newly generated spectrograms using transfer learning of the ResNet50 and VCG16 models.
 
